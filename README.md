@@ -101,7 +101,7 @@ Para execução dessa função precisamos criar uma nova tabela de medida
 
 No campo que apareceu inserimos a seguinte formula
 
-Produtos Selecionados = 
+Produtos Selecionados =
 VAR Produtos = VALUES(dados[PRODUTO])
 VAR QtdeSelecionados = COUNTROWS(Produtos)
 RETURN
