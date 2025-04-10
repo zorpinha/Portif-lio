@@ -14,7 +14,7 @@ Nessa atividade tinhamos como objetivo responder as perguntas feitas através de
 
 ## 3° atividade
 
-Utilziando a mesma tabela de dados anteriormente no excel, tinhamos como objetivo responder as mesmas 3 questões mas dessa vez utilizando o Power Bi
+Utilizando a mesma tabela de dados anteriormente no excel, tinhamos como objetivo responder as mesmas 3 questões mas dessa vez utilizando o Power Bi
 Power BI da Quantidade de alunos estrangeiros por nacionalidade
 https://app.powerbi.com/links/6IHF-ALz0o?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare
 
