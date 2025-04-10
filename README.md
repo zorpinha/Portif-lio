@@ -20,7 +20,7 @@ https://app.powerbi.com/links/6IHF-ALz0o?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 ## 4° atividade
 
-Juntando todos esses conhecimentos foi nos passado a atividade em dupla, entretanto por alguns motivos na faculdade acabamos inserindo uma 3 pessoa por ter perdido sua dupla;
+Juntando todos esses conhecimentos que foi nos passado a atividade em dupla.
 
 Nossa missão foi escolher um repositório de bancos aberto, fazer a limpeza e adaptação para as 3 perguntas que elaboramos
 Assim como na 3° atividade teriamos que responder essa atividade tanto no powerbi quanto no excel.
