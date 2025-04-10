@@ -177,7 +177,8 @@ FORMAT(QtdeSelecionados, "0") & " produtos"
 Não conseguimos juntar duas informações distintas, sendo uma numero e outra texto, por isso formatamos o numero para que fique em formato de texto.
 ```
 
-Depois da adição dos gráficos com seus respecivos campos e eixos temos esse resultado:
+Depois da adição dos gráficos com seus respecivos campos,eixos e tema temos esse resultado:
 
-https://github.com/user-attachments/assets/e2bdb18d-c85d-4fba-b9bd-d06495881f5e.
+![PBIDesktop_rVUHpICGYY](https://github.com/user-attachments/assets/ee1e07b4-a767-4eba-b774-6b9b6e46a789)
+
 
