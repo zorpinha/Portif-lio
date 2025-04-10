@@ -29,7 +29,7 @@ Foi interessante essa jornada por o Power BI torna muito mais simples esse anali
 
 ## excel
 
-Para respondermos as 3 questões elaboradas no excel, através dos dados do repisitorio que pegamos, precisamos fazer uma extensão desses dados, para podermos relacionar as demais questões.
+Para respondermos as 3 questões elaboradas no excel, através dos dados do repositorio que pegamos, precisamos fazer uma extensão desses dados, para podermos relacionar as demais questões.
 ![image](https://github.com/user-attachments/assets/eb31f159-7721-4c86-8127-ab03f5778a83)
 
 **Utilizando a formula**
