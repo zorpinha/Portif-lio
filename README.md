@@ -22,7 +22,7 @@ https://app.powerbi.com/links/6IHF-ALz0o?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f7
 
 Juntando todos esses conhecimentos que foi nos passado a atividade em dupla.
 
-Nossa missão foi escolher um repositório de bancos aberto, fazer a limpeza e adaptação para as 3 perguntas que elaboramos
+Nossa missão foi escolher um repositório de bancos aberto, fazer a limpeza e adaptação para as 3 perguntas que elaboramos.
 Assim como na 3° atividade teriamos que responder essa atividade tanto no powerbi quanto no excel.
 
 Foi interessante essa jornada por o Power BI torna muito mais simples esse analise de dados.
@@ -66,7 +66,7 @@ A segunda questão foram utilizadas as mesmas formulas mudando apenas as areas d
 ![{4E8BF564-4107-40E6-9C9E-B301036BCB3C}](https://github.com/user-attachments/assets/1c4af758-703a-42b8-9446-a3191e647027)
 
 
-### 3° Qual produto tem maior consumo de petróleo exportado de 2000 a 2025		
+### 3° Qual produto tem maior consumo de petróleo exportado de 2000 a 2025?	
 
 A terceira questão também foram utilizadas as mesmas formulas mudando apenas as areas de seleção, sendo o foco os anos e o total de consumo por ano de exportação por ano:
 ![{17F3840C-4C6B-4E13-9B92-029FE546641C}](https://github.com/user-attachments/assets/5d44e8ac-c03a-4dbb-8981-62724f8ff786)
@@ -74,7 +74,7 @@ A terceira questão também foram utilizadas as mesmas formulas mudando apenas a
 
 ## power BI
 
-Já no powerbi foi apenas necessário tratar os dados para que os criterios sejam entendidos corretamente
+Já no powerbi foi apenas necessário tratar os dados para que os criterios sejam entendidos corretamente.
 
 Antes:
 ![{F07C6AA3-8B10-4A31-A915-1628B79E0F02}](https://github.com/user-attachments/assets/8a7710e1-d6b9-4316-8fab-ea7ac00ea2b0)
@@ -83,34 +83,45 @@ Depois
 
 ![image](https://github.com/user-attachments/assets/25aafc6d-b5e4-4f4c-9a4f-24873910a946)
 
-Nessa tabela foi necessária apenas a alteração da formatação de DISPÊNDIO / RECEITA para aparecer em R$
+Nessa tabela foi necessária apenas a alteração da formatação de DISPÊNDIO / RECEITA para aparecer em R$.
 
 ### montagem dos gráficos
 
-Inicialmente iniciamos com dois cartões
+Inicialmente iniciamos com dois cartões.
 
 ![image](https://github.com/user-attachments/assets/7f2d706b-e9f5-457d-9efd-10c1aca88c56)
 
-Para o primeiro cartão aplicamos uma função para que o tornasse mais interarivo
+Para o primeiro cartão aplicamos uma função para que o tornasse mais interarivo.
 
 ![PBIDesktop_vTEBfvxjXY](https://github.com/user-attachments/assets/f3e69135-a482-46ff-9995-21af0ab303ce)
 
-Para execução dessa função precisamos criar uma nova tabela de medida
+Para execução dessa função precisamos criar uma nova tabela de medida.
 
 ![PBIDesktop_tUG3BwEwAO](https://github.com/user-attachments/assets/58e040ca-e1a6-4751-97f6-fb33ee32bf6f)
 
-No campo que apareceu inserimos a seguinte formula
+No campo que apareceu inserimos a seguinte formula:
 
+```
 Produtos Selecionados =
+
 VAR Produtos = VALUES(dados[PRODUTO])
+
 VAR QtdeSelecionados = COUNTROWS(Produtos)
+
 RETURN
+
 SWITCH(
+
     TRUE(),
+
     QtdeSelecionados = 1, CONCATENATEX(Produtos, dados[PRODUTO], ", "),
+
     QtdeSelecionados = 16, "todos",
+
     QtdeSelecionados > 1, FORMAT(QtdeSelecionados, "0") & " produtos"
+
 )
+```
 
 ### Explicando por termos
 
