@@ -1,5 +1,3 @@
-# Portif-lio
-
 # Esse é meu portifólio da fatec
 
 ## 1° atividade
