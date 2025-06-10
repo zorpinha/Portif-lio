@@ -77,6 +77,12 @@ https://github.com/user-attachments/assets/3738107e-da0f-49cb-9861-3a0c8dce7b77
 
 ## Cadastro de Materiais
 
+https://github.com/user-attachments/assets/16b96473-520d-449a-b31e-a45f5497d839
+
+## 
+
+
+
 
 
 
