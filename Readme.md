@@ -41,7 +41,7 @@ Na segunda atividade foi sobre  Matemática Econômica no Excel.
 
 # Quarta atividade
 
-Na segunda atividade foi sobre  Matemática Econômica no Excel.
+Na segunda atividade foi sobre  Power apps.
 
 <details> 
 <summary> Saiba mais detalhadamente acessando esse link
