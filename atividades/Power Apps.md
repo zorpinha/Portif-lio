@@ -8,17 +8,13 @@ Foi pedido para que desenvolvesse um App no qual fosse possível cadastrar Clien
 
 Foi necessário passar um prompt explicando para ia da microsof o que desejamos fazer
 
-![image](https://github.com/user-attachments/assets/1082256d-83a9-4eb9-90c5-fa00914a52b6)
+![image](https://github.com/user-attachments/assets/4beeb0f9-d57c-4bfb-ad18-6372148f9447)
 
-O prompt foi: Criar um aplicativo que iria conter 4 repartições, CLIENTE, FORNECEDOR e ORDEM DE PRODUÇÃO e Materiais O cliente precisa preencher nome,
-numero de telefone e CPF e qual material ele precisa e cair para ordem de produção. O fornecedor precisa preencher preencher nome, numero de telefone e 
-CNPJ e precisa de um espaço onde adiciona o produto x e tempo de entrega logo a frente, caso tenha mais que um, ele clique em um + para adicionar mais um produto 
-e o tempo de entrega do mesmo Na ordem de produção vai estar o nome do cliente que pediu, qual o fornecedor que possui o material com o prazo de entrega, nessa 
-aba só vai ser possível alterar o Status do pedido
 
+O prompt foi: Elabore um app que cadastre as informações: No cadastro Cliente, nome, e-mail, o numero de contato. No cadastro de Fornecedor, tendo tipo de material, prazo de entrega em dias, e-mail de contato. No cadastro de pedido do cliente, nome do cliente, o fornecedor, o tipo de material, prazo de entrega em dias, baseado no material escolhido, onde foi preenchido no cadastro de fornecedor
 Após isso foi nos restornado qual o objetivo foi identificado que gostariamos de alcançar
 
-![image](https://github.com/user-attachments/assets/0d55864f-84eb-4f3a-abf6-79aad0e2f0fa)
+![image](https://github.com/user-attachments/assets/3898c71c-8f5c-4ea8-b059-f3b1649cdcb8)
 
 Como era o objetivos que buscamos, seguiremos para a segunda etapa 
 
@@ -26,25 +22,27 @@ Como era o objetivos que buscamos, seguiremos para a segunda etapa
 
 ## Etapa 2
 
-foi gerado o requisitos de cada usuario de ser preenchido, nessa etapa fazemos uma verificação se é tudo que precisamos ou falta algo
+foi gerado o requisitos de cada a usuario ser preenchido, nessa etapa fazemos uma verificação se é tudo que precisamos ou falta algo
 
 ### Cliente 
 
-![image](https://github.com/user-attachments/assets/02fab3e0-a157-4571-9ea2-69bd4e1c57d9)
+![image](https://github.com/user-attachments/assets/3127d05f-f4d6-46b2-9a64-a7e66bdf5864)
 
-Atendeu o que precisavamos para cadastrar um cliente, Nome, Numero para contato e CPF
+
+Atendeu o que precisavamos para cadastrar um cliente, Nome, Numero para contato e Email.
 
 ### Fornecedor
 
-Atendeu o que precisavamos para cadastrar um Fornecedor, Nome, CNPJ, Material de trabalho e tempo de entrega
+Atendeu o que precisavamos para cadastrar um Fornecedor, Nome, Material, tempo de entrega e email para contato.
 
-![image](https://github.com/user-attachments/assets/adc2f380-0c0b-4302-b6dd-3a0679df84a0)
+![image](https://github.com/user-attachments/assets/2d456347-b4c4-4d96-9c3c-74bd00709b08)
+
 
 ### Administrador de Produção
 
 Precisamos poder atualizar os pedidos, então precisavamos poder alterar os status do mesmo
 
-![image](https://github.com/user-attachments/assets/c8aeaa7f-2d4d-4ce2-b5df-14e903d47584)
+![image](https://github.com/user-attachments/assets/fc533639-9dea-42de-b8d9-513baff5e596)
 
 ---
 
@@ -52,7 +50,7 @@ Precisamos poder atualizar os pedidos, então precisavamos poder alterar os stat
 
 Após nossos blocos estarem de acordo com o que precisavamos, o power apps nos retorna as tecnologias que foram geradas
 
-![image](https://github.com/user-attachments/assets/d5818060-2ce6-44b1-9982-1060b711860d)
+![image](https://github.com/user-attachments/assets/110e8fcc-32f5-4c73-be13-8c48b2dee241)
 
 depois disso salvamos e iniciamos o aplicativo
 
@@ -62,10 +60,10 @@ depois disso salvamos e iniciamos o aplicativo
 
 Nessa etapa realizamos algumas mudanças de cores e fontes, confome nosso gosto para melhor visuabilidade
 
-![image](https://github.com/user-attachments/assets/15adac0a-d4f9-4a76-b62c-8aa9a37e8ba3)
+![image](https://github.com/user-attachments/assets/3ee40948-4b71-4ee1-ab74-51f3a645b288)
 
-Assim ficou a tela inicial de cadastros de clientes
 
+Assim ficou a tela inicial do aplicativo, as demais também foram alteradas na coloração verde
 
 ---
 
@@ -73,13 +71,17 @@ Assim ficou a tela inicial de cadastros de clientes
 
 ## Cadastro de clientes
 
-https://github.com/user-attachments/assets/3738107e-da0f-49cb-9861-3a0c8dce7b77
+https://github.com/user-attachments/assets/aa8abcff-ddb1-4b53-a138-b63245fbf97b
 
-## Cadastro de Materiais
+## Cadastro Fornecedores
 
-https://github.com/user-attachments/assets/16b96473-520d-449a-b31e-a45f5497d839
+https://github.com/user-attachments/assets/c1054676-41ae-491d-8d3e-2af242318d8b
 
-## 
+##  Cadastro de Pedidos
+
+https://github.com/user-attachments/assets/3d200e82-3425-423c-8ace-ed3459fc5264
+
+
 
 
 
