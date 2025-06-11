@@ -47,7 +47,7 @@ Na segunda atividade foi sobre  Power apps.
 <summary> Saiba mais detalhadamente acessando esse link
 </summary>
   
-[Diretorio](https://github.com/zorpinha/Portif-lio/blob/bf42a793dc642246484240c0cd3476c740c78957/atividades/Excel%20na%20economia.md)
+[Diretorio](https://github.com/zorpinha/Portif-lio/blob/3e6e82e6867683537a4397ec93d757113b99a581/atividades/Power%20Apps.md)
 
 </details>
 
