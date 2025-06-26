@@ -19,8 +19,14 @@ d) Copie o link do seu Github aqui.
 
 ### resposta:
 
+Tela de cadastro de instalação:
 
-Uploading Power Apps Studio  _  Aplicativo - Google Chrome 2025-06-26 20-08-02.mp4…
+https://github.com/user-attachments/assets/e19fdd13-a2c6-482b-b822-55555073c7f5
 
+Tela de acompanhamento de instalação:
+
+https://github.com/user-attachments/assets/d40eebed-1093-43bd-b427-f15b4f0422f3
 
 ---
+
+## Questão 2
