@@ -49,5 +49,15 @@ Na segunda atividade foi sobre  Power apps.
   
 [Diretorio](https://github.com/zorpinha/Portif-lio/blob/3f0ceec281d3a029cf674268bb60d901d18fa676/atividades/Power%20Apps.md)
 
+# Prova
+
+Respostas Prova dia 26/06
+
+<details> 
+<summary> Saiba mais detalhadamente acessando esse link
+</summary>
+  
+[Diretorio](https://github.com/zorpinha/Portif-lio/blob/3f0ceec281d3a029cf674268bb60d901d18fa676/atividades/Power%20Apps.md)
+
 </details>
 
