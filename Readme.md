@@ -57,7 +57,7 @@ Respostas Prova dia 26/06
 <summary> Saiba mais detalhadamente acessando esse link
 </summary>
   
-[Diretorio](https://github.com/zorpinha/Portif-lio/blob/3f0ceec281d3a029cf674268bb60d901d18fa676/atividades/Power%20Apps.md)
+[Diretorio](https://github.com/zorpinha/Portif-lio/blob/0b404c2bf006564dda92a920a42c61995ebc08ee/atividades/Prova.md)
 
 </details>
 
