@@ -47,5 +47,5 @@ d) Copie o link do seu Github aqui.
 
 https://github.com/user-attachments/assets/ba176136-c297-4190-aebc-2cbfac829c57
 
-O arquivo está anexado no repositório incial [atividades]([https://github.com/zorpinha/Portif-lio/tree/main/atividades](https://github.com/zorpinha/Portif-lio.git)) 
+O arquivo está anexado no repositório [inicial](https://github.com/zorpinha/Portif-lio.git) 
 
